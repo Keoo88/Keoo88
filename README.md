@@ -56,10 +56,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keoo88&theme=github_dark" width="95%" alt="Profile Details" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keoo88&bg_color=0d1117&color=c9d1d9&line=69ccf0&point=69ccf0&area=true&area_color=16223a&border=30363d&hide_border=false" width="95%" alt="Activity Graph" />
-
 </div>
 
 ## 📫 Contact
