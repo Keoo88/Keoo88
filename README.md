@@ -49,12 +49,12 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keoo88&theme=github_dark" height="180" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keoo88&theme=github_dark" height="180" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keoo88&theme=tokyonight" height="180" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keoo88&theme=tokyonight" height="180" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keoo88&theme=github_dark" width="95%" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keoo88&theme=tokyonight" width="95%" alt="Profile Details" />
 
 </div>
 
