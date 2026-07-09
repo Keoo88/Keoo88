@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:c9a227&height=180&section=header&text=Egor&fontSize=42&fontColor=e6c15a&animation=fadeIn&fontAlignY=35&desc=WoW%203.3.5a%20Addon%20Developer&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16223a,100:2f81f7&height=180&section=header&text=Egor&fontSize=42&fontColor=69ccf0&animation=fadeIn&fontAlignY=35&desc=WoW%203.3.5a%20Addon%20Developer&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E6C15A&center=true&vCenter=true&width=600&lines=Backporting+addons+to+WotLK+3.3.5a;Lua+%2B+WoW+API+enjoyer;Keeping+classic+addons+alive" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=69CCF0&center=true&vCenter=true&width=600&lines=Backporting+addons+to+WotLK+3.3.5a;Lua+%2B+WoW+API+enjoyer;Keeping+classic+addons+alive" alt="Typing SVG" />
 
 </div>
 
@@ -19,20 +19,20 @@
 
 <div align="center">
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=e6c15a)
-![WoW API](https://img.shields.io/badge/WoW%20API%203.3.5a-1a1a2e?style=for-the-badge&logo=battledotnet&logoColor=e6c15a)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=e6c15a)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6c15a)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=codecrafters&logoColor=e6c15a)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=69ccf0)
+![WoW API](https://img.shields.io/badge/WoW%20API%203.3.5a-16223a?style=for-the-badge&logo=battledotnet&logoColor=69ccf0)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=69ccf0)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=69ccf0)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=codecrafters&logoColor=69ccf0)
 
 <br/>
 
 **AI / LLM Tools**
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=e6c15a)
-![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=e6c15a)
-![Codex](https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=e6c15a)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0d1117?style=for-the-badge&logo=deepseek&logoColor=e6c15a)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=69ccf0)
+![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=69ccf0)
+![Codex](https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=69ccf0)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0d1117?style=for-the-badge&logo=deepseek&logoColor=69ccf0)
 
 </div>
 
@@ -54,11 +54,11 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Keoo88&theme=dark&background=0d1117&ring=e6c15a&fire=e6c15a&currStreakLabel=e6c15a&border=30363d" height="180" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Keoo88&theme=dark&background=0d1117&ring=69ccf0&fire=69ccf0&currStreakLabel=69ccf0&border=30363d" height="180" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keoo88&bg_color=0d1117&color=c9d1d9&line=e6c15a&point=e6c15a&area=true&area_color=1a1a2e&border=30363d&hide_border=false" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keoo88&bg_color=0d1117&color=c9d1d9&line=69ccf0&point=69ccf0&area=true&area_color=16223a&border=30363d&hide_border=false" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -76,8 +76,8 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Keoo88&color=e6c15a&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Keoo88&color=69ccf0&style=flat-square&label=Profile+Views" alt="Profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,50:16223a,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
