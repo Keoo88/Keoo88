@@ -25,6 +25,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6c15a)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=codecrafters&logoColor=e6c15a)
 
+<br/>
+
+**AI / LLM Tools**
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=e6c15a)
+![Claude](https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=e6c15a)
+![Codex](https://img.shields.io/badge/Codex-0d1117?style=for-the-badge&logo=openai&logoColor=e6c15a)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0d1117?style=for-the-badge&logo=deepseek&logoColor=e6c15a)
+
 </div>
 
 ## ⚒️ Featured Projects
@@ -58,6 +67,7 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-Keoo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/keoo88)
+[![Discord Server](https://img.shields.io/badge/Discord-Join%20my%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/sKpJbUrsvR)
 [![DonationAlerts](https://img.shields.io/badge/DonationAlerts-Support%20me-F57D07?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0d1117)](https://www.donationalerts.com/r/keoo)
 
 </div>
