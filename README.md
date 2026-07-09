@@ -58,6 +58,7 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-Keoo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/keoo88)
+[![DonationAlerts](https://img.shields.io/badge/DonationAlerts-Support%20me-F57D07?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0d1117)](https://www.donationalerts.com/r/keoo)
 
 </div>
 
