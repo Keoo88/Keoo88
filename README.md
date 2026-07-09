@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:c9a227&height=180&section=header&text=Egor%20%C2%B7%20Keoo88&fontSize=42&fontColor=e6c15a&animation=fadeIn&fontAlignY=35&desc=WoW%203.3.5a%20Addon%20Developer&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:c9a227&height=180&section=header&text=Egor&fontSize=42&fontColor=e6c15a&animation=fadeIn&fontAlignY=35&desc=WoW%203.3.5a%20Addon%20Developer&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E6C15A&center=true&vCenter=true&width=600&lines=Backporting+addons+to+WotLK+3.3.5a;Lua+%2B+WoW+API+enjoyer;Keeping+classic+addons+alive" alt="Typing SVG" />
 
@@ -40,8 +40,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keoo88&show_icons=true&theme=dark&bg_color=0d1117&title_color=e6c15a&icon_color=e6c15a&text_color=c9d1d9&border_color=30363d&rank_icon=github" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keoo88&layout=compact&theme=dark&bg_color=0d1117&title_color=e6c15a&text_color=c9d1d9&border_color=30363d&langs_count=6" height="165" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keoo88&theme=github_dark" height="180" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keoo88&theme=github_dark" height="180" alt="Top Languages" />
 
 <br/><br/>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/keoo88-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/keoo88)
+[![Discord](https://img.shields.io/badge/Discord-Keoo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/keoo88)
 
 </div>
 
