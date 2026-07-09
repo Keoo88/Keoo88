@@ -54,7 +54,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Keoo88&theme=dark&background=0d1117&ring=69ccf0&fire=69ccf0&currStreakLabel=69ccf0&border=30363d" height="180" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keoo88&theme=github_dark" width="95%" alt="Profile Details" />
 
 <br/><br/>
 
